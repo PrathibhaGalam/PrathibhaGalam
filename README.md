@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/profile-banner.png" width="100%">
+</p>
+
 <div align="center">
 
 # 👋 Hi, I'm Prathibha Galam
