@@ -1,28 +1,249 @@
-# 💫 About Me:
-🔭 I’m currently working on Angular-based Web Applications and Full Stack Development Projects<br><br>👯 I’m looking to collaborate on Angular, ASP.NET, Web Development, and Open Source Projects<br><br>🤝 I’m looking for help with Enterprise Application Development, Cloud Technologies, and System Design<br><br>🌱 I’m currently learning Angular, TypeScript, ASP.NET Core, REST APIs, SQL, and Azure<br><br>💬 Ask me about JavaScript, TypeScript, Angular, Python, Java, DSA, and Web Development<br><br>⚡ Fun fact: I enjoy transforming business requirements into user-friendly web applications
+<div align="center">
 
+# 👋 Hi, I'm Prathibha Galam
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/galam-prathibha-a6a36a323/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/No_Captain2000/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:231fa18273@gmail.com) 
+### Computer Science Student | Full-Stack Developer | AI/ML Enthusiast
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=plastic&logo=latex&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white) ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=plastic&logo=apachehive&logoColor=black) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=plastic&logo=apachehadoop&logoColor=black) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=plastic&logo=apachekafka) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=plastic&logo=apachespark&logoColor=black) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=plastic&logo=angular&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=plastic&logo=ros&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=plastic&logo=apache-tomcat&logoColor=black) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Jasmine](https://img.shields.io/badge/-Jasmine-%238A4182?style=plastic&logo=Jasmine&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=PrathibhaGalam&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=PrathibhaGalam&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=PrathibhaGalam&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p>
+  <a href="https://github.com/PrathibhaGalam">
+    <img src="https://img.shields.io/badge/GitHub-PrathibhaGalam-181717?style=for-the-badge&logo=github">
+  </a>
+  <a href="https://www.linkedin.com/in/galam-prathibha-a6a36a323/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:231fa18273@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=PrathibhaGalam&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+</div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+---
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=PrathibhaGalam&limit=5&theme=blue_navy&combine_all_yearly_contributions=true)
+## 💡 About Me
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@PrathibhaGalam) 
+🎓 Computer Science student specializing in Artificial Intelligence & Machine Learning.
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+💻 Interested in Full-Stack Development, AI/ML, Generative AI and Backend Development.
+
+🚀 Building practical applications using C#, ASP.NET Core, Angular, Python and SQL.
+
+🧠 Currently strengthening my skills in .NET development, Angular, REST APIs, databases and problem solving.
+
+🌱 Passionate about learning new technologies and turning ideas into useful software.
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+
+<p>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+</p>
+
+### 🌐 Web Development
+
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
+<img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge">
+</p>
+
+### ⚙️ Backend & Frameworks
+
+<p>
+<img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
+<img src="https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
+</p>
+
+### 🗄️ Databases
+
+<p>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+</p>
+
+### 🤖 AI / ML
+
+<p>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge">
+</p>
+
+### 🔧 Tools & Platforms
+
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+</p>
+
+---
+
+## 💼 Experience
+
+### 🤖 AI/ML Azure Intern
+**Edunet Foundation | April 2025 – May 2025**
+
+- Worked with Python, Pandas and Scikit-learn.
+- Developed a vehicle and hand direction prediction project.
+- Explored Azure AI concepts and AI deployment.
+- Worked with machine learning model evaluation and computer vision concepts.
+
+---
+
+## 🚀 Featured Projects
+
+### 🎓 Student Profile Organizer
+
+A web application for managing student profiles, certificates,
+achievements and external links.
+
+**Tech Stack**
+
+`C#` `ASP.NET Core Web API` `Angular` `Entity Framework Core` `SQL Server`
+
+**Key Features**
+
+- Student profile management
+- Certificate and achievement management
+- CRUD operations
+- Angular-based frontend
+- REST API backend
+- Database integration
+
+---
+
+### 🤖 AI Answer Script Evaluation System
+
+An AI-powered application that evaluates student answers against
+reference material and generates marks and feedback.
+
+**Tech Stack**
+
+`Python` `Streamlit` `LangChain` `ChromaDB` `Groq` `RAG`
+
+**Key Features**
+
+- PDF-based reference material
+- Answer evaluation
+- AI-generated feedback
+- Marks generation
+- Vector database integration
+- Downloadable results
+
+---
+
+### 🚗 Vehicle & Hand Direction Prediction
+
+A machine learning classification project for predicting direction
+from vehicle and hand gesture data.
+
+**Tech Stack**
+
+`Python` `Pandas` `Scikit-learn` `SVM`
+
+---
+
+### 🏠 Orphanage Homes System
+
+A web-based application designed to manage orphanage-related
+information using a database-backed system.
+
+**Tech Stack**
+
+`Python` `MySQL` `HTML` `CSS` `JavaScript`
+
+---
+
+## 🏆 Certifications & Achievements
+
+- 🥇 NPTEL — Principles of Management — Elite 85%
+- 🤖 ISRO — AI/ML for Geodata Analysis
+- 💻 HackerRank — Python Basic
+- 🗄️ HackerRank — SQL Basic
+- 📚 Infosys Springboard — DBMS & OOP
+- 🧠 Microsoft/LinkedIn — Career Essentials in Generative AI
+- 🏃 Vignan Mahotsav — Sports Coordinator 2024 & 2025
+- 🧘 3rd Prize — Yoga
+
+---
+
+## 💻 Coding Profiles
+
+<p align="center">
+
+<a href="YOUR_LEETCODE_LINK">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
+</a>
+
+<a href="YOUR_HACKERRANK_LINK">
+<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black">
+</a>
+
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=PrathibhaGalam&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrathibhaGalam&layout=compact&theme=tokyonight&hide_border=true" height="170">
+
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PrathibhaGalam&theme=tokyonight&hide_border=true">
+
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/galam-prathibha-a6a36a323/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:231fa18273@gmail.com">
+<img src="https://img.shields.io/badge/Email-231fa18273%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://github.com/PrathibhaGalam">
+<img src="https://img.shields.io/badge/GitHub-PrathibhaGalam-181717?style=for-the-badge&logo=github">
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### 🚀 Learn • Build • Solve • Grow
+
+⭐ Thanks for visiting my profile!
+
+</div>
