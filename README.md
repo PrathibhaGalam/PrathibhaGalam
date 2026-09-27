@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 👋 Hi, I'm Prathibha Galam
+# Prathibha Galam
 
 ### Computer Science Student | Full-Stack Developer | AI/ML Enthusiast
 
